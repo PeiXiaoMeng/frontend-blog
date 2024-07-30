@@ -21,7 +21,7 @@ export default defineConfig({
     nav,
     sidebar,
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/PeiXiaoMeng' }
+      { icon: 'github', link: 'https://github.com/PeiXiaoMeng/frontend-blog' }
     ],
     footer: {
       message: "基于 MIT 许可发布",

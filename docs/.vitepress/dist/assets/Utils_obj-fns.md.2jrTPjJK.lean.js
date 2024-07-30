@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as p}from"./chunks/framework.Bc5RvaJQ.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Utils/obj-fns.md","filePath":"Utils/obj-fns.md"}'),e={name:"Utils/obj-fns.md"},l=p("",1),i=[l];function c(t,o,r,b,j,y){return a(),n("div",null,i)}const f=s(e,[["render",c]]);export{d as __pageData,f as default};
