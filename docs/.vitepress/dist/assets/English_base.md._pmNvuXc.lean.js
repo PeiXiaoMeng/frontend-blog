@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,V as o}from"./chunks/framework.Bc5RvaJQ.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"English/base.md","filePath":"English/base.md"}'),t={name:"English/base.md"},n=o("",14),p=[n];function l(i,c,d,u,h,b){return e(),a("div",null,p)}const k=s(t,[["render",l]]);export{g as __pageData,k as default};
