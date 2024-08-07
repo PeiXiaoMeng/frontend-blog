@@ -57,6 +57,7 @@ function English(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '英语口语导读学习', link: '/base' },
         { text: '课程1: 花式交谈技巧', link: '/course1' },
+        { text: '课程2: 聊天时可能谈到的话题', link: '/course2' },
       ]
     }
   ];
