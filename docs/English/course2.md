@@ -95,5 +95,10 @@ yes i really enjoyed myself.
 
 where did you go in America? 你去了美国哪些地方？
 where would you most like to visit? 你最想去哪些地方？
+
+Have you been to france before?
+have you ever been to france?
+
+what places have you been in china?
 ```
 

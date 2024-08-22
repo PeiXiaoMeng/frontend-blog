@@ -36,6 +36,12 @@ features:
       src: /link.png
     link: https://peixiaomeng.github.io/frontend/React/introduce
     linkText: 查看详情
+  - title: 我的作品
+    details: 整理过往做过的所有项目，仅供面试官参考
+    icon: 
+      src: /link.png
+    link: https://peixiaomeng.github.io/frontend/Product/index
+    linkText: 查看详情
   - title: Learning English
     details: 记录之前或近期学习英语口语、单词的过程，分享经验
     icon: 

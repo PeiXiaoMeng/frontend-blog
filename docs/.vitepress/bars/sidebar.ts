@@ -15,6 +15,10 @@ export const sidebar =
     base: "/React/",
     items: React(),
   },
+  "/Product/": {
+    base: "/Product/",
+    items: Product(),
+  },
   "/English/": {
     base: "/English/",
     items: English(),
@@ -69,6 +73,20 @@ function Leetcode(): DefaultTheme.SidebarItem[] {
       text: '介绍',
       items: [
         { text: '题目1: 算法query', link: '/code1' },
+      ]
+    }
+  ];
+}
+
+function Product(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: '我的作品',
+      items: [
+        { text: '小程序项目', link: '/index' },
+        { text: '快应用项目', link: '/quick' },
+        { text: 'PC端', link: '/pc' },
+        { text: '之前的设计方案(流程图)', link: '/design' },
       ]
     }
   ];
